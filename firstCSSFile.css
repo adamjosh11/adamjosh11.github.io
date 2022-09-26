@@ -1,0 +1,31 @@
+body {
+	background-color: blanchedalmond;
+}
+
+p {
+	color: chocolate;
+}
+
+a {
+	color : blue;
+}
+
+a:hover {
+	color : black;
+}
+
+.important_p {
+	color: darkcyan;
+	font: Tahoma;
+}
+
+.vertical_p {
+	writing-mode: vertical-rl;
+}
+
+.bordered_p {
+	border: 2px solid black;
+	display: inline-block;
+	padding: 5px;
+}
+
